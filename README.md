@@ -1,11 +1,11 @@
-# 项目介绍
+# 一、项目介绍
 采用**uniapp**开发,在线阅读系统管理员端,支持添加、修改、删除图书、添加、修改、删除广告,用户权限管理,数据仪表盘
-## 服务端
+## 1  服务端
 [https://gitee.com/Qianrenni/online-reading-system](https://gitee.com/Qianrenni/online-reading-system)
 
-## 客户端
+## 2 客户端
 [https://gitee.com/Qianrenni/online-reading-system-user](https://gitee.com/Qianrenni/online-reading-system-user)
-# 项目结构
+# 二、项目结构
 ```bash 
 ├── .gitignore # git忽略文件
 ├── App.vue # 项目入口文件
@@ -57,5 +57,8 @@
 |   ├── cache.js # 缓存
 |   └── router.js #路由保护
 ```
+
+# 三、联系作者
+邮箱：<2112183503@qq.com>
 
 
